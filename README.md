@@ -49,10 +49,10 @@ Developed by: RegisterNumber:*/
 **Result:**
 
 Logic diagram:
-[Vishal S EXP02 RTL Viewer.pdf](https://github.com/user-attachments/files/22725205/Vishal.S.EXP02.RTL.Viewer.pdf)
+[LOGIC DIG02.pdf](https://github.com/user-attachments/files/22726538/LOGIC.DIG02.pdf)
 
 State Diagram:
-<img width="1920" height="1032" alt="EXP 02 State diagram" src="https://github.com/user-attachments/assets/189c1a86-51fd-4979-9e2c-3cabe9ef33be" />
+<img width="1920" height="1032" alt="STATE DIG" src="https://github.com/user-attachments/assets/1a93a1cb-8ec3-46ec-9a07-7409733ccc76" />
 
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
